@@ -1,6 +1,6 @@
 {
-  "short_name": "P2P File Transfer",
-  "name": "P2P File Transfer",
+  "short_name": "File Transfer",
+  "name": "File Transfer",
   "icons": [
     {
       "src": "favicon.ico",
